@@ -1,0 +1,14 @@
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Calender.csprojResolveAssemblyReference.cache
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Calender.csproj.GenerateResource.Cache
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\aimirutya\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
