@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivetWPFApplication1", "LivetWPFApplication1\LivetWPFApplication1.csproj", "{423B9B16-BF65-491D-B211-F734F923AA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423B9B16-BF65-491D-B211-F734F923AA71}.Debug|x86.ActiveCfg = Debug|x86
+		{423B9B16-BF65-491D-B211-F734F923AA71}.Debug|x86.Build.0 = Debug|x86
+		{423B9B16-BF65-491D-B211-F734F923AA71}.Release|x86.ActiveCfg = Release|x86
+		{423B9B16-BF65-491D-B211-F734F923AA71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
